@@ -1,0 +1,19 @@
+{ "Journals": [
+    {"id": 1, "name": "ADV"},
+    {"id": 2, "name": "AJP"},
+    {"id": 3, "name": "APB"},
+    {"id": 4, "name": "APC"},
+    {"id": 5, "name": "APL"},
+    {"id": 6, "name": "APM"},
+    {"id": 7, "name": "APP"},
+    {"id": 8, "name": "ARE"},
+    {"id": 9, "name": "AQS"},
+    {"id": 10,"name": "BIP"},
+    {"id": 11,"name": "BMF"},
+    {"id": 12,"name": "BPR"},
+    {"id": 13,"name": "CHA"},
+    {"id": 14,"name": "CJP"},
+    {"id": 15,"name": "CPR"},
+    {"id": 16,"name": "MPN"}
+]
+}
